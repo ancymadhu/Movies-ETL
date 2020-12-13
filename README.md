@@ -22,3 +22,6 @@ The Movies-ETL uses Kaggle data. The Kaggle dataset pulls from the MovieLens dat
 
 We checked that the function works correctly on the current Wikipedia and Kaggle data using pgAdmin by verifing the columns have the correct data type, inspecting the first 100 rows, and checking the row count.
 
+![1](https://user-images.githubusercontent.com/73450637/102001607-fe6f6500-3cc1-11eb-82a6-e9e90c6efe2f.png)
+
+
