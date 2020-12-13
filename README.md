@@ -26,7 +26,7 @@ First 100 rows of table named - Movies
 
 ![1](https://user-images.githubusercontent.com/73450637/102001607-fe6f6500-3cc1-11eb-82a6-e9e90c6efe2f.png)
 
-First 100 rows of table names - Ratings
+First 100 rows of table named - Ratings
 
 ![2](https://user-images.githubusercontent.com/73450637/102001611-10e99e80-3cc2-11eb-84ed-8bc2f312420a.png)
 
